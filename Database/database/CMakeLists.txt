@@ -1,0 +1,9 @@
+add_library(Database
+    DataBase.cpp
+    DataBase.h
+    Person.cpp
+    Person.h
+    Adress.cpp
+    Adress.h
+    json.hpp
+)
